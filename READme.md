@@ -1,5 +1,5 @@
 
-# Chat Application
+# Weather Application
   This application built using Vite, ReactJS & Weather API.
   
   ![s2](./public/Screenshot%20(174).png)
