@@ -1,0 +1,46 @@
+{
+    "coord":{
+    "lon":6.5244,"lat":3.3792
+        },
+"weather":[
+    {
+"id":501,
+"main":"Rain",
+"description":"moderate rain",
+"icon":"10d"
+    }
+            ],
+"base":"stations",
+"main":{
+"temp":299.04,
+"feels_like":299.83,
+"temp_min":299.04,
+"temp_max":299.04,
+"pressure":1014,
+"humidity":82,
+"sea_level":1014,
+"grnd_level":1014
+        },
+"visibility":10000,
+"wind":{
+    "speed":4.14,
+    "deg":217,
+    "gust":4.81
+    },
+"rain":{
+    "1h":1.51
+    },
+"clouds":{
+    "all":100
+    },
+"dt":1665046877,
+"sys":{
+    "country":"NG",
+    "sunrise":1665033589,
+    "sunset":1665077045
+    },
+"timezone":0,
+"id":2346734,
+"name":"Twon-Brass",
+"cod":200
+}
